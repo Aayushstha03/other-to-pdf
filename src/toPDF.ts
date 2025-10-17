@@ -24,7 +24,7 @@ async function printFileToPDF(filePath: string, outputPath: string) {
 
 // Convert all files in data/other-files to PDF
 async function convertAllToPDF() {
-    const inputDir = path.join(__dirname, "..", "data", "other-files");
+    const inputDir = path.join(__dirname, "..", "data", "other-format-files");
     const outputDir = path.join(__dirname, "..", "data", "converted-files");
     if (!fs.existsSync(outputDir)) {
         fs.mkdirSync(outputDir, { recursive: true });

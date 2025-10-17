@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Expanding mandatory ISO 20022 enhanced data in CHAPS from 2027",
+    "publisher_name": "Bank of England",
+    "publisher_identifier": "BOE",
+    "name": "UTF8''OJL_202400886ENTXT.html",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202400886",
+    "file_type": "txt",
+    "original_file": "UTF8''OJL_202400886ENTXT.html",
+    "converted_file": "UTF8__OJL_202400886ENTXT.html.pdf"
+  },
+  {
+    "title": "Quarterly Financial Report - Second Quarter 2025",
+    "publisher_name": "Bank of Canada",
+    "publisher_identifier": "BOC",
+    "name": "QFR_2021-sd-2019-12-31-ed-2025-06-30.json",
+    "url": "https://www.bankofcanada.ca/valet/observations/group/QFR_2021/json?start_date=2019-12-31&end_date=2025-06-30",
+    "file_type": "other",
+    "original_file": "QFR_2021-sd-2019-12-31-ed-2025-06-30.json",
+    "converted_file": "QFR_2021-sd-2019-12-31-ed-2025-06-30.json.pdf"
+  },
+  {
+    "title": "Quarterly Financial Report - Second Quarter 2025",
+    "publisher_name": "Bank of Canada",
+    "publisher_identifier": "BOC",
+    "name": "QFR_2021-sd-2019-12-31-ed-2025-06-30.xml",
+    "url": "https://www.bankofcanada.ca/valet/observations/group/QFR_2021/xml?start_date=2019-12-31&end_date=2025-06-30",
+    "file_type": "other",
+    "original_file": "QFR_2021-sd-2019-12-31-ed-2025-06-30.xml",
+    "converted_file": "QFR_2021-sd-2019-12-31-ed-2025-06-30.xml.pdf"
+  },
+  {
+    "title": "Monetary Policy Report",
+    "publisher_name": "Bank of Canada",
+    "publisher_identifier": "BOC",
+    "name": "MPR_2025M07.xml",
+    "url": "https://www.bankofcanada.ca/valet/observations/group/MPR_2025M07/xml",
+    "file_type": "other",
+    "original_file": "MPR_2025M07.xml",
+    "converted_file": "MPR_2025M07.xml.pdf"
+  },
+  {
+    "title": "Monetary Policy Report",
+    "publisher_name": "Bank of Canada",
+    "publisher_identifier": "BOC",
+    "name": "MPR_2025M07.json",
+    "url": "https://www.bankofcanada.ca/valet/observations/group/MPR_2025M07/json",
+    "file_type": "other",
+    "original_file": "MPR_2025M07.json",
+    "converted_file": "MPR_2025M07.json.pdf"
+  },
+  {
+    "title": "Business Outlook Survey—Second Quarter of 2025",
+    "publisher_name": "Bank of Canada",
+    "publisher_identifier": "BOC",
+    "name": "BOS_2025Q2-sd-1999-01-01-ed-2025-06-30.json",
+    "url": "https://www.bankofcanada.ca/valet/observations/group/BOS_2025Q2/json?start_date=1999-01-01&end_date=2025-06-30",
+    "file_type": "other",
+    "original_file": "BOS_2025Q2-sd-1999-01-01-ed-2025-06-30.json",
+    "converted_file": "BOS_2025Q2-sd-1999-01-01-ed-2025-06-30.json.pdf"
+  },
+  {
+    "title": "Business Outlook Survey—Second Quarter of 2025",
+    "publisher_name": "Bank of Canada",
+    "publisher_identifier": "BOC",
+    "name": "BOS_2025Q2-sd-1999-01-01-ed-2025-06-30.xml",
+    "url": "https://www.bankofcanada.ca/valet/observations/group/BOS_2025Q2/xml?start_date=1999-01-01&end_date=2025-06-30",
+    "file_type": "other",
+    "original_file": "BOS_2025Q2-sd-1999-01-01-ed-2025-06-30.xml",
+    "converted_file": "BOS_2025Q2-sd-1999-01-01-ed-2025-06-30.xml.pdf"
+  },
+  {
+    "title": "Canadian Survey of Consumer Expectations—Second Quarter of 2025",
+    "publisher_name": "Bank of Canada",
+    "publisher_identifier": "BOC",
+    "name": "CSCE_2025Q2-sd-1999-01-01-ed-2025-06-30.xml",
+    "url": "https://www.bankofcanada.ca/valet/observations/group/CSCE_2025Q2/xml?start_date=1999-01-01&end_date=2025-06-30",
+    "file_type": "other",
+    "original_file": "CSCE_2025Q2-sd-1999-01-01-ed-2025-06-30.xml",
+    "converted_file": "CSCE_2025Q2-sd-1999-01-01-ed-2025-06-30.xml.pdf"
+  },
+  {
+    "title": "Canadian Survey of Consumer Expectations—Second Quarter of 2025",
+    "publisher_name": "Bank of Canada",
+    "publisher_identifier": "BOC",
+    "name": "CSCE_2025Q2-sd-1999-01-01-ed-2025-06-30.json",
+    "url": "https://www.bankofcanada.ca/valet/observations/group/CSCE_2025Q2/json?start_date=1999-01-01&end_date=2025-06-30",
+    "file_type": "other",
+    "original_file": "CSCE_2025Q2-sd-1999-01-01-ed-2025-06-30.json",
+    "converted_file": "CSCE_2025Q2-sd-1999-01-01-ed-2025-06-30.json.pdf"
+  },
+  {
+    "title": "Non-bank financial intermediation: Canada’s submission to the 2024 global monitoring report",
+    "publisher_name": "Bank of Canada",
+    "publisher_identifier": "BOC",
+    "name": "SAN_THOR20250611.xml",
+    "url": "https://www.bankofcanada.ca/valet/observations/group/SAN_THOR20250611/xml",
+    "file_type": "other",
+    "original_file": "SAN_THOR20250611.xml",
+    "converted_file": "SAN_THOR20250611.xml.pdf"
+  },
+  {
+    "title": "Non-bank financial intermediation: Canada’s submission to the 2024 global monitoring report",
+    "publisher_name": "Bank of Canada",
+    "publisher_identifier": "BOC",
+    "name": "SAN_THOR20250611.json",
+    "url": "https://www.bankofcanada.ca/valet/observations/group/SAN_THOR20250611/json",
+    "file_type": "other",
+    "original_file": "SAN_THOR20250611.json",
+    "converted_file": "SAN_THOR20250611.json.pdf"
+  },
+  {
+    "title": "La regolamentazione finanziaria e le regole fiscali nell'era digitale: tracciare il percorso futuro",
+    "publisher_name": "Bank of Italy",
+    "publisher_identifier": "BDI",
+    "name": "UTF8''OJL_202400886ITTXT.html",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=OJ:L_202400886",
+    "file_type": "txt",
+    "original_file": "UTF8''OJL_202400886ITTXT.html",
+    "converted_file": "UTF8__OJL_202400886ITTXT.html.pdf"
+  },
+  {
+    "title": "La regolamentazione finanziaria e le regole fiscali nell'era digitale: tracciare il percorso futuro",
+    "publisher_name": "Bank of Italy",
+    "publisher_identifier": "BDI",
+    "name": "UTF8''OJL_202302226ITTXT.html",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=OJ:L_202302226",
+    "file_type": "txt",
+    "original_file": "UTF8''OJL_202302226ITTXT.html",
+    "converted_file": "UTF8__OJL_202302226ITTXT.html.pdf"
+  },
+  {
+    "title": "La regolamentazione finanziaria e le regole fiscali nell'era digitale: tracciare il percorso futuro",
+    "publisher_name": "Bank of Italy",
+    "publisher_identifier": "BDI",
+    "name": "UTF8''CELEX32022R0858ITTXT.html",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32022R0858&enc_1",
+    "file_type": "txt",
+    "original_file": "UTF8''CELEX32022R0858ITTXT.html",
+    "converted_file": "UTF8__CELEX32022R0858ITTXT.html.pdf"
+  },
+  {
+    "title": "La regolamentazione finanziaria e le regole fiscali nell'era digitale: tracciare il percorso futuro",
+    "publisher_name": "Bank of Italy",
+    "publisher_identifier": "BDI",
+    "name": "UTF8''CELEX32023R1113ITTXT.html",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32023R1113",
+    "file_type": "txt",
+    "original_file": "UTF8''CELEX32023R1113ITTXT.html",
+    "converted_file": "UTF8__CELEX32023R1113ITTXT.html.pdf"
+  },
+  {
+    "title": "La regolamentazione finanziaria e le regole fiscali nell'era digitale: tracciare il percorso futuro",
+    "publisher_name": "Bank of Italy",
+    "publisher_identifier": "BDI",
+    "name": "UTF8''CELEX52020DC0592ITTXT.html",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:52020DC0592",
+    "file_type": "txt",
+    "original_file": "UTF8''CELEX52020DC0592ITTXT.html",
+    "converted_file": "UTF8__CELEX52020DC0592ITTXT.html.pdf"
+  },
+  {
+    "title": "La regolamentazione finanziaria e le regole fiscali nell'era digitale: tracciare il percorso futuro",
+    "publisher_name": "Bank of Italy",
+    "publisher_identifier": "BDI",
+    "name": "UTF8''CELEX52020DC0591ITTXT.html",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:52020DC0591",
+    "file_type": "txt",
+    "original_file": "UTF8''CELEX52020DC0591ITTXT.html",
+    "converted_file": "UTF8__CELEX52020DC0591ITTXT.html.pdf"
+  },
+  {
+    "title": "How will mortgage payments change at renewal? An updated analysis",
+    "publisher_name": "Bank of Canada",
+    "publisher_identifier": "BOC",
+    "name": "SAN_SUAD20250620.xml",
+    "url": "https://www.bankofcanada.ca/valet/observations/group/SAN_SUAD20250620/xml",
+    "file_type": "other",
+    "original_file": "SAN_SUAD20250620.xml",
+    "converted_file": "SAN_SUAD20250620.xml.pdf"
+  },
+  {
+    "title": "How will mortgage payments change at renewal? An updated analysis",
+    "publisher_name": "Bank of Canada",
+    "publisher_identifier": "BOC",
+    "name": "SAN_SUAD20250620.json",
+    "url": "https://www.bankofcanada.ca/valet/observations/group/SAN_SUAD20250620/json",
+    "file_type": "other",
+    "original_file": "SAN_SUAD20250620.json",
+    "converted_file": "SAN_SUAD20250620.json.pdf"
+  },
+  {
+    "title": "The impact of trading flows on Government of Canada bond prices",
+    "publisher_name": "Bank of Canada",
+    "publisher_identifier": "BOC",
+    "name": "SAN_VALA20250605.json",
+    "url": "https://www.bankofcanada.ca/valet/observations/group/SAN_VALA20250605/json",
+    "file_type": "other",
+    "original_file": "SAN_VALA20250605.json",
+    "converted_file": "SAN_VALA20250605.json.pdf"
+  }
+]
