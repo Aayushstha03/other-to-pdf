@@ -3,7 +3,7 @@ const path = require('path');
 
 const workflowsPath = path.join(__dirname, '..', 'data', 'merged-workflows-final.json');
 const convertedDir = path.join(__dirname, '..', 'data', 'converted-files');
-const outputJson = path.join(__dirname, '..', 'data', 'converted-files', 'converted-files-info.json');
+const outputJson = path.join(__dirname, '..', 'data', 'converted-files', '_converted-files-info.json');
 
 const workflows = JSON.parse(fs.readFileSync(workflowsPath, 'utf8'));
 const convertedFiles = fs.readdirSync(convertedDir);
@@ -17,7 +17,8 @@ workflows.forEach(item => {
     if (Array.isArray(item.documents)) {
         const publisher_name = item.publisher && item.publisher.name ? item.publisher.name : '';
         const publisher_identifier = item.publisher && item.publisher.identifier ? item.publisher.identifier : '';
-        const title = item.title || '';
+        const publication_title = item.title || '';
+        const publication_url = item.url || '';
         item.documents.forEach(doc => {
             let safeFilename = doc.name.replace(/[^a-zA-Z0-9._-]/g, '_');
             if (safeFilename.length > maxLen - ext.length) {
@@ -26,14 +27,15 @@ workflows.forEach(item => {
             const pdfName = safeFilename + ext;
             if (convertedFiles.includes(pdfName)) {
                 result.push({
-                    title,
-                    publisher_name,
+                    publication_title,
+                    publication_url,
                     publisher_identifier,
-                    name: doc.name || '',
-                    url: doc.url || '',
+                    publisher_name,
+                    file_name: doc.name || '',
+                    file_url: doc.url || '',
                     file_type: doc.file_type || '',
                     original_file: doc.name || '',
-                    converted_file: pdfName
+                    converted_file: pdfName,
                 });
             }
         });
