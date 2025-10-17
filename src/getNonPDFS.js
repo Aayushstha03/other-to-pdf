@@ -3,7 +3,7 @@ const fs = require('fs');
 const data = JSON.parse(fs.readFileSync('./data/merged-workflows-final.json', 'utf8'));
 
 const counts = {};
-const otherUrls = [];
+const otherDocs = [];
 
 data.forEach(item => {
     if (Array.isArray(item.documents)) {
@@ -11,8 +11,13 @@ data.forEach(item => {
             const type = doc.file_type;
             if (type) {
                 counts[type] = (counts[type] || 0) + 1;
-                if (type === 'other' && doc.url) {
-                    otherUrls.push(doc.url);
+                if (type === 'other' && doc.url || type === 'word' && doc.url) {
+                    // Save name, file_type, and url
+                    otherDocs.push({
+                        name: doc.name,
+                        file_type: doc.file_type,
+                        url: doc.url
+                    });
                 }
             }
         });
@@ -20,9 +25,9 @@ data.forEach(item => {
 });
 
 console.log('Counts:', counts);
-if (otherUrls.length > 0) {
-    console.log('URLs for file_type "other":');
-    otherUrls.forEach(url => console.log(url));
-    fs.writeFileSync('./data/other-urls.txt', otherUrls.join('\n'), 'utf8');
-    console.log('Saved URLs to other-urls.txt');
+if (otherDocs.length > 0) {
+    console.log('Docs for file_type "other":');
+    otherDocs.forEach(doc => console.log(doc));
+    fs.writeFileSync('./data/other-docs.json', JSON.stringify(otherDocs, null, 2), 'utf8');
+    console.log('Saved docs to other-docs.json');
 }

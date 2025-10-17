@@ -1,0 +1,2595 @@
+{
+    "groupDetail": {
+        "label": "Non-bank financial intermediation: Canada’s submission to the 2024 global monitoring report",
+        "description": "Non-bank financial intermediation: Canada’s submission to the 2024 global monitoring report",
+        "link": "https://www.bankofcanada.ca/?p=246594"
+    },
+    "terms": {
+        "url": "https://www.bankofcanada.ca/terms/"
+    },
+    "seriesDetail": {
+        "SAN_THOR20250611_C1_S1": {
+            "label": "Insurance corporations (left scale)",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C1_S2": {
+            "label": "Pension funds (left scale)",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C1_S3": {
+            "label": "Other financial intermediaries (left scale)",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C1_S4": {
+            "label": "Financial auxiliaries (left scale)",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C1_S5": {
+            "label": "Central bank (left scale)",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C1_S6": {
+            "label": "Deposit-taking institutions (left scale)",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C1_S7": {
+            "label": "Public financial institutions (left scale)",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C1_S8": {
+            "label": "NBFI share (right scale)",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C2_S01": {
+            "label": "Money market funds",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C2_S02": {
+            "label": "Hedge funds",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C2_S03": {
+            "label": "Other investment funds",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C2_S04": {
+            "label": "Real estate investment trusts and real estate funds",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C2_S05": {
+            "label": "Finance companies",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C2_S06": {
+            "label": "Broker-dealers",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C2_S07": {
+            "label": "Structured finance vehicles",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C2_S08": {
+            "label": "Central counterparties",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C2_S09": {
+            "label": "Captive financial institutions and money lenders",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C2_S10": {
+            "label": "Others",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C3_S1": {
+            "label": "Investment funds that invest in credit products (left scale)",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C3_S2": {
+            "label": "Finance companies (left scale)",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C3_S3": {
+            "label": "Non-bank broker-dealers (left scale)",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C3_S4": {
+            "label": "Structured financial vehicles (left scale)",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C3_S5": {
+            "label": "Private mortgage insurers (left scale)",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C3_S6": {
+            "label": "Narrow measure share of NBFI assets (right scale)",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C4_S1": {
+            "label": "Fixed-income mutual funds",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C4_S2": {
+            "label": "Mixed mutual funds",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C4_S3": {
+            "label": "Money market funds",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C4_S4": {
+            "label": "Credit hedge funds",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C4_S5": {
+            "label": "Credit pooled funds",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C4_S6": {
+            "label": "Exchange-traded funds",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C5_S1": {
+            "label": "Consumer and business transportation leasing companies",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C5_S2": {
+            "label": "Mortgage finance companies",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C5_S3": {
+            "label": "Mortgage investment corporations",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C5_S4": {
+            "label": "Financing companies",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        },
+        "SAN_THOR20250611_C5_S5": {
+            "label": "Other leasing companies",
+            "description": "",
+            "dimension": {
+                "key": "d",
+                "name": "Date"
+            }
+        }
+    },
+    "observations": [
+        {
+            "d": "2002-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "0.39"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "0.68"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "1.68"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.26"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.11"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "1.49"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.13"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "63.62"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.06"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "0.36"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.02"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.15"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.18"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.15"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "0.75"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "0.21"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.15"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "12.06"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "43.25"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "101.12"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "61.35"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "0.00"
+            }
+        },
+        {
+            "d": "2003-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "0.44"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "0.74"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "1.83"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.21"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.10"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "1.59"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.15"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "63.60"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "0.42"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.03"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.15"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.20"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.16"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "0.80"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "0.22"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.16"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "12.19"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "41.78"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "119.76"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "53.48"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "0.35"
+            }
+        },
+        {
+            "d": "2004-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "0.48"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "0.77"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "2.16"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.24"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.10"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "1.73"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.18"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "64.55"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "0.50"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.03"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.18"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.22"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.20"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "0.97"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.02"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "0.26"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.20"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "12.96"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "49.31"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "159.72"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "51.15"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "0.52"
+            }
+        },
+        {
+            "d": "2005-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "0.53"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "0.88"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "2.35"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.23"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.09"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "1.88"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.21"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "64.56"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "0.63"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.03"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.21"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.24"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.25"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "0.93"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.02"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "0.33"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.02"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.25"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "14.90"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "60.91"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "215.01"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "47.97"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "1.15"
+            }
+        },
+        {
+            "d": "2006-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "0.58"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "1.01"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "2.76"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.25"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.10"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "2.10"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.24"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "65.37"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "0.75"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.03"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.23"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.27"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.31"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "1.11"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.02"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "0.39"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.02"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.31"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "15.72"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "65.31"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "270.92"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "48.49"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "2.25"
+            }
+        },
+        {
+            "d": "2007-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "0.59"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "1.05"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "3.04"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.33"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.10"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "2.31"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.27"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "65.19"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.06"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "0.81"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.26"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.29"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.36"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "1.20"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.02"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "0.42"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.10"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.03"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.36"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "18.30"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "71.53"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "287.35"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "58.01"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "2.65"
+            },
+            "SAN_THOR20250611_C5_S1": {
+                "v": "68.47"
+            },
+            "SAN_THOR20250611_C5_S2": {
+                "v": "0.83"
+            },
+            "SAN_THOR20250611_C5_S3": {
+                "v": "9.85"
+            },
+            "SAN_THOR20250611_C5_S4": {
+                "v": "13.08"
+            },
+            "SAN_THOR20250611_C5_S5": {
+                "v": "12.67"
+            }
+        },
+        {
+            "d": "2008-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "0.54"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "0.96"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "3.06"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.27"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.14"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "2.71"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.31"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "60.53"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.08"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "0.65"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.31"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.30"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.41"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "1.24"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.02"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "0.39"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.12"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.03"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.41"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "19.64"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "77.17"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "225.86"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "78.21"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "6.07"
+            },
+            "SAN_THOR20250611_C5_S1": {
+                "v": "75.53"
+            },
+            "SAN_THOR20250611_C5_S2": {
+                "v": "1.25"
+            },
+            "SAN_THOR20250611_C5_S3": {
+                "v": "11.39"
+            },
+            "SAN_THOR20250611_C5_S4": {
+                "v": "14.52"
+            },
+            "SAN_THOR20250611_C5_S5": {
+                "v": "13.09"
+            }
+        },
+        {
+            "d": "2009-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "0.60"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "1.03"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "3.36"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.36"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.13"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "2.62"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.41"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "62.83"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.06"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "0.81"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.29"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.31"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.42"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "1.39"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.02"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "0.46"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.11"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.42"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "19.26"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "115.60"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "268.72"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "61.43"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "11.11"
+            },
+            "SAN_THOR20250611_C5_S1": {
+                "v": "72.73"
+            },
+            "SAN_THOR20250611_C5_S2": {
+                "v": "2.09"
+            },
+            "SAN_THOR20250611_C5_S3": {
+                "v": "11.52"
+            },
+            "SAN_THOR20250611_C5_S4": {
+                "v": "13.71"
+            },
+            "SAN_THOR20250611_C5_S5": {
+                "v": "11.04"
+            }
+        },
+        {
+            "d": "2010-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "0.65"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "1.17"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "3.61"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.37"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.12"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "2.83"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.44"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "63.18"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "0.94"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.08"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.28"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.34"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.43"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "1.48"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.02"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "0.54"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.12"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.43"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "19.58"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "135.21"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "343.36"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "42.15"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "15.11"
+            },
+            "SAN_THOR20250611_C5_S1": {
+                "v": "80.46"
+            },
+            "SAN_THOR20250611_C5_S2": {
+                "v": "3.28"
+            },
+            "SAN_THOR20250611_C5_S3": {
+                "v": "11.29"
+            },
+            "SAN_THOR20250611_C5_S4": {
+                "v": "13.02"
+            },
+            "SAN_THOR20250611_C5_S5": {
+                "v": "11.42"
+            }
+        },
+        {
+            "d": "2011-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "0.70"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "1.27"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "3.37"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.36"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.14"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "3.26"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.45"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "59.67"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "0.98"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.11"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.31"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.40"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.07"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "1.44"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "0.59"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.13"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.07"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "14.68"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "166.21"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "365.23"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "39.64"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "18.59"
+            },
+            "SAN_THOR20250611_C5_S1": {
+                "v": "70.69"
+            },
+            "SAN_THOR20250611_C5_S2": {
+                "v": "19.41"
+            },
+            "SAN_THOR20250611_C5_S3": {
+                "v": "12.68"
+            },
+            "SAN_THOR20250611_C5_S4": {
+                "v": "13.19"
+            },
+            "SAN_THOR20250611_C5_S5": {
+                "v": "12.25"
+            }
+        },
+        {
+            "d": "2012-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "0.73"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "1.39"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "3.68"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.32"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.15"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "3.42"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.45"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "60.34"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.03"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "1.12"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.13"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.37"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.43"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.07"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "1.51"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "0.68"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.14"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.07"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "15.49"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "198.85"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "421.86"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "33.34"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "0.00"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "27.58"
+            },
+            "SAN_THOR20250611_C5_S1": {
+                "v": "77.61"
+            },
+            "SAN_THOR20250611_C5_S2": {
+                "v": "22.87"
+            },
+            "SAN_THOR20250611_C5_S3": {
+                "v": "15.50"
+            },
+            "SAN_THOR20250611_C5_S4": {
+                "v": "15.54"
+            },
+            "SAN_THOR20250611_C5_S5": {
+                "v": "12.73"
+            }
+        },
+        {
+            "d": "2013-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "0.78"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "1.49"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "4.34"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.32"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.17"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "3.54"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.43"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "62.56"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.03"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.07"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "1.35"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.18"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.37"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.49"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.07"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "1.75"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.02"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "1.00"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.17"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.07"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "18.60"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "220.16"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "542.95"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "30.54"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "46.39"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "131.03"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "27.76"
+            },
+            "SAN_THOR20250611_C5_S1": {
+                "v": "85.96"
+            },
+            "SAN_THOR20250611_C5_S2": {
+                "v": "30.53"
+            },
+            "SAN_THOR20250611_C5_S3": {
+                "v": "17.75"
+            },
+            "SAN_THOR20250611_C5_S4": {
+                "v": "17.80"
+            },
+            "SAN_THOR20250611_C5_S5": {
+                "v": "13.58"
+            }
+        },
+        {
+            "d": "2014-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "0.85"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "1.68"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "4.69"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.33"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.18"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "3.81"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.42"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "63.10"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.03"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.07"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "1.57"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.20"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.38"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.49"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.06"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "1.85"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.02"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "1.14"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.19"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.06"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "19.20"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "267.27"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "632.51"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "28.11"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "46.39"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "131.03"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "33.35"
+            },
+            "SAN_THOR20250611_C5_S1": {
+                "v": "98.39"
+            },
+            "SAN_THOR20250611_C5_S2": {
+                "v": "41.77"
+            },
+            "SAN_THOR20250611_C5_S3": {
+                "v": "19.70"
+            },
+            "SAN_THOR20250611_C5_S4": {
+                "v": "19.92"
+            },
+            "SAN_THOR20250611_C5_S5": {
+                "v": "13.44"
+            }
+        },
+        {
+            "d": "2015-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "0.85"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "1.79"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "4.93"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.35"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.22"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "4.14"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.46"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "62.16"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.03"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.09"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "1.75"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.22"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.42"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.47"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.06"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "1.86"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.02"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "1.32"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.22"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.06"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "20.77"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "357.38"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "672.84"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "32.37"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "62.70"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "160.26"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "38.05"
+            },
+            "SAN_THOR20250611_C5_S1": {
+                "v": "112.26"
+            },
+            "SAN_THOR20250611_C5_S2": {
+                "v": "47.16"
+            },
+            "SAN_THOR20250611_C5_S3": {
+                "v": "21.29"
+            },
+            "SAN_THOR20250611_C5_S4": {
+                "v": "20.45"
+            },
+            "SAN_THOR20250611_C5_S5": {
+                "v": "14.12"
+            }
+        },
+        {
+            "d": "2016-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "0.92"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "1.87"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "5.43"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.39"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.22"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "4.33"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.47"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "63.18"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.03"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.09"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "1.98"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.23"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.42"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.56"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.06"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.02"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "2.02"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.02"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "1.46"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.23"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.06"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "21.06"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "408.38"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "749.67"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "33.57"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "62.70"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "160.26"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "46.40"
+            },
+            "SAN_THOR20250611_C5_S1": {
+                "v": "121.54"
+            },
+            "SAN_THOR20250611_C5_S2": {
+                "v": "54.86"
+            },
+            "SAN_THOR20250611_C5_S3": {
+                "v": "24.09"
+            },
+            "SAN_THOR20250611_C5_S4": {
+                "v": "19.12"
+            },
+            "SAN_THOR20250611_C5_S5": {
+                "v": "14.87"
+            }
+        },
+        {
+            "d": "2017-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "0.97"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "1.98"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "5.82"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.46"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.22"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "4.46"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.48"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "64.16"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.03"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.14"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "2.19"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.23"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.40"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.58"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.02"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "2.16"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.02"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "1.58"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.25"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "21.00"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "448.17"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "784.61"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "30.41"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "76.04"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "180.85"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "57.60"
+            },
+            "SAN_THOR20250611_C5_S1": {
+                "v": "131.31"
+            },
+            "SAN_THOR20250611_C5_S2": {
+                "v": "57.82"
+            },
+            "SAN_THOR20250611_C5_S3": {
+                "v": "26.95"
+            },
+            "SAN_THOR20250611_C5_S4": {
+                "v": "20.44"
+            },
+            "SAN_THOR20250611_C5_S5": {
+                "v": "16.70"
+            }
+        },
+        {
+            "d": "2018-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "0.96"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "1.99"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "5.81"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.50"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.23"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "4.84"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.49"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "62.44"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.14"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "2.16"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.25"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.41"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.66"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.03"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "2.04"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.03"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "1.58"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.28"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.06"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "21.29"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "448.11"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "777.52"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "36.01"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "76.04"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "180.85"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "61.88"
+            },
+            "SAN_THOR20250611_C5_S1": {
+                "v": "143.12"
+            },
+            "SAN_THOR20250611_C5_S2": {
+                "v": "63.66"
+            },
+            "SAN_THOR20250611_C5_S3": {
+                "v": "29.80"
+            },
+            "SAN_THOR20250611_C5_S4": {
+                "v": "22.84"
+            },
+            "SAN_THOR20250611_C5_S5": {
+                "v": "16.31"
+            }
+        },
+        {
+            "d": "2019-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "1.06"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "2.21"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "6.55"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.53"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.23"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "5.19"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.51"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "63.56"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.16"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "2.49"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.30"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.42"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.76"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.03"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "2.27"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.03"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "1.81"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.29"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.06"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "21.39"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "508.58"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "863.81"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "42.81"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "120.98"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "198.29"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "77.20"
+            },
+            "SAN_THOR20250611_C5_S1": {
+                "v": "150.56"
+            },
+            "SAN_THOR20250611_C5_S2": {
+                "v": "64.10"
+            },
+            "SAN_THOR20250611_C5_S3": {
+                "v": "31.60"
+            },
+            "SAN_THOR20250611_C5_S4": {
+                "v": "23.34"
+            },
+            "SAN_THOR20250611_C5_S5": {
+                "v": "16.49"
+            }
+        },
+        {
+            "d": "2020-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "1.12"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "2.39"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "7.31"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.55"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.67"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "6.03"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.55"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "61.06"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.19"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "2.77"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.30"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.40"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.90"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.03"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "2.58"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "1.99"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.28"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.09"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "21.12"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "570.71"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "915.22"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "47.56"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "135.79"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "219.80"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "96.20"
+            },
+            "SAN_THOR20250611_C5_S1": {
+                "v": "146.76"
+            },
+            "SAN_THOR20250611_C5_S2": {
+                "v": "60.90"
+            },
+            "SAN_THOR20250611_C5_S3": {
+                "v": "32.12"
+            },
+            "SAN_THOR20250611_C5_S4": {
+                "v": "24.52"
+            },
+            "SAN_THOR20250611_C5_S5": {
+                "v": "16.25"
+            }
+        },
+        {
+            "d": "2021-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "1.21"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "2.55"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "8.43"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.67"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.64"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "6.33"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.54"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "63.14"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.22"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "3.30"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.32"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.44"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.94"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "3.04"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "2.20"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.29"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.10"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "20.58"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "590.76"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "1078.71"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "38.83"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "151.33"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "227.19"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "114.47"
+            },
+            "SAN_THOR20250611_C5_S1": {
+                "v": "153.16"
+            },
+            "SAN_THOR20250611_C5_S2": {
+                "v": "61.58"
+            },
+            "SAN_THOR20250611_C5_S3": {
+                "v": "36.17"
+            },
+            "SAN_THOR20250611_C5_S4": {
+                "v": "26.16"
+            },
+            "SAN_THOR20250611_C5_S5": {
+                "v": "17.51"
+            }
+        },
+        {
+            "d": "2022-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "1.15"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "2.39"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "7.97"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.64"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.56"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "6.89"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.54"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "60.33"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.22"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "2.91"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.35"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.47"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "0.98"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "2.86"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "1.99"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.32"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.09"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.04"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "20.23"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "538.27"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "933.70"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "51.51"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "139.15"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "213.01"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "114.31"
+            },
+            "SAN_THOR20250611_C5_S1": {
+                "v": "164.82"
+            },
+            "SAN_THOR20250611_C5_S2": {
+                "v": "66.74"
+            },
+            "SAN_THOR20250611_C5_S3": {
+                "v": "39.88"
+            },
+            "SAN_THOR20250611_C5_S4": {
+                "v": "28.29"
+            },
+            "SAN_THOR20250611_C5_S5": {
+                "v": "20.91"
+            }
+        },
+        {
+            "d": "2023-01-01",
+            "SAN_THOR20250611_C1_S1": {
+                "v": "1.20"
+            },
+            "SAN_THOR20250611_C1_S2": {
+                "v": "2.51"
+            },
+            "SAN_THOR20250611_C1_S3": {
+                "v": "8.43"
+            },
+            "SAN_THOR20250611_C1_S4": {
+                "v": "0.70"
+            },
+            "SAN_THOR20250611_C1_S5": {
+                "v": "0.47"
+            },
+            "SAN_THOR20250611_C1_S6": {
+                "v": "7.35"
+            },
+            "SAN_THOR20250611_C1_S7": {
+                "v": "0.56"
+            },
+            "SAN_THOR20250611_C1_S8": {
+                "v": "60.49"
+            },
+            "SAN_THOR20250611_C2_S01": {
+                "v": "0.08"
+            },
+            "SAN_THOR20250611_C2_S02": {
+                "v": "0.25"
+            },
+            "SAN_THOR20250611_C2_S03": {
+                "v": "3.10"
+            },
+            "SAN_THOR20250611_C2_S04": {
+                "v": "0.30"
+            },
+            "SAN_THOR20250611_C2_S05": {
+                "v": "0.48"
+            },
+            "SAN_THOR20250611_C2_S06": {
+                "v": "1.03"
+            },
+            "SAN_THOR20250611_C2_S07": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C2_S08": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C2_S09": {
+                "v": "3.04"
+            },
+            "SAN_THOR20250611_C2_S10": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C3_S1": {
+                "v": "2.12"
+            },
+            "SAN_THOR20250611_C3_S2": {
+                "v": "0.33"
+            },
+            "SAN_THOR20250611_C3_S3": {
+                "v": "0.10"
+            },
+            "SAN_THOR20250611_C3_S4": {
+                "v": "0.01"
+            },
+            "SAN_THOR20250611_C3_S5": {
+                "v": "0.05"
+            },
+            "SAN_THOR20250611_C3_S6": {
+                "v": "20.33"
+            },
+            "SAN_THOR20250611_C4_S1": {
+                "v": "578.46"
+            },
+            "SAN_THOR20250611_C4_S2": {
+                "v": "930.79"
+            },
+            "SAN_THOR20250611_C4_S3": {
+                "v": "77.39"
+            },
+            "SAN_THOR20250611_C4_S4": {
+                "v": "165.42"
+            },
+            "SAN_THOR20250611_C4_S5": {
+                "v": "233.22"
+            },
+            "SAN_THOR20250611_C4_S6": {
+                "v": "136.65"
+            },
+            "SAN_THOR20250611_C5_S1": {
+                "v": "171.98"
+            },
+            "SAN_THOR20250611_C5_S2": {
+                "v": "69.64"
+            },
+            "SAN_THOR20250611_C5_S3": {
+                "v": "41.61"
+            },
+            "SAN_THOR20250611_C5_S4": {
+                "v": "29.51"
+            },
+            "SAN_THOR20250611_C5_S5": {
+                "v": "21.82"
+            }
+        }
+    ]
+}
